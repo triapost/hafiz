@@ -1,5 +1,5 @@
 import React from 'react';
-import MainNav from './src/navs/MainNav';
+import MainNav from './navs/MainNav';
 
 const App = () => {
   return <MainNav />;
